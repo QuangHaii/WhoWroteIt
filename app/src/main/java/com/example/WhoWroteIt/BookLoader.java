@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.videomp3player;
+package com.example.WhoWroteIt;
 
 import android.content.Context;
 

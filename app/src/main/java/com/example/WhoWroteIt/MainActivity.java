@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.videomp3player;
+package com.example.WhoWroteIt;
 
 import android.content.Context;
 import android.net.ConnectivityManager;
@@ -30,6 +30,8 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.loader.app.LoaderManager;
 import androidx.loader.content.Loader;
+
+import com.example.videomp3player.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;
